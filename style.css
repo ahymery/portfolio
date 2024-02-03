@@ -59,12 +59,10 @@ img{
 }
 
 footer{
+    background: fixed midnightblue;
+    padding: 25px;
     color: white;
-    font-family: 'Montserrat', 'sans-serif';
-    text-align: center;
-    background: #3556c4;
-    padding: 0;
-    margin: 0px;
+}
 }
 
 footer ul li {
